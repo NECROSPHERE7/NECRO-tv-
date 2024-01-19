@@ -1,0 +1,51 @@
+<body>
+</body>
+<marquee behavior="scroll" direction="left">
+watch many movies tv shows in one app
+</marquee>
+<H1>NECRO-TV</H1> <div align="top centre"> 
+<!DOCTYPE html>
+<html>
+<body>
+
+<div align="top lefts">
+
+<h1>Date And Time</h1>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click Me</button>
+
+<p id="demo"></p>
+
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body>
+apps
+<a href=https://www.hotstar.com>hotstar</a>
+<a href=https://www.zee5.com>zee 5</a>
+<a href=https://www.netflix.com>Netflix</a>
+<a href=https://www.jiocinema.com>jio cinema</a>
+<a href=https://www.amazonminitv.com>prime video</a>
+<a href=https://www.primevideo.com>Amazon mini tv </a>
+<a href=https://www.youtube>YouTube</a>
+<a href=https://www.voot.com>voot</a>
+<a href=https://www.sonyliv.com>sony liv</a>
+some other apps
+<a href=https://www.facebook.com>Facebook</a>
+<a href=https://www.flipkart.com>Flipkart</a>
+<a href=https://www.instagram.com>Instagram</a>
+<a href=https://www.google.com>Google</a>
+<a href=https://www.x.com>X</a>
+<a href=https://www.thread.com>thread</a>
+<a href=https://www.youtube.com>YouTube</a>
+<button onclick="myDialog.showModal()">fact</button>
+<div align="top left"> 
+<dialog id="myDialog">
+  <p>this page is first page of NECRO groups</p>
+  <button onclick="myDialog.close()">OK</button>
+</dialog>
